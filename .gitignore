@@ -216,3 +216,5 @@ __marimo__/
 models/
 __pycache__/
 *.pyc
+
+llama.cpp/
